@@ -3,8 +3,6 @@
 
 Castie2@uw.edu
 
-http://www.linkedin.com/in/yourname
-
 # Summary
 
 Communication and customer service skills learned from the fast-paced retail and food industries combined with technical skills in Python, design, and libraries have made me a great candidate for front-end developer roles and teamwork.
