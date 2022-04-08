@@ -5,13 +5,15 @@ Castie2@uw.edu
 
 # Summary
 
-> Communication and customer service skills learned from the fast-paced retail and food industries combined with technical skills in Python, design, and libraries have made me a great candidate for front-end developer roles and teamwork.
+> Communication and customer service skills learned from the fast-paced retail and food industries
+> combined with technical skills in Python, design, and libraries have made me a great candidate
+> for front-end developer roles and teamwork.
 
-# Work Experience (only last 10 years)
+# Work Experience
 
 ## PayPal (San Francisco, CA)
 
-**Software Engineering Intern (SWE)** (June 2021 - September 2021)
+**Software Engineering Intern (SWE)** *(June 2021 - September 2021)*
 
 - Collaborated with **Analytics team and Engineering team** to work on two projects
 - Helped the analytics team create pivot charts using excel, cleaning data, creating a story with the pivot charts in powerpoint to gain insight for the anti money laundering team.
@@ -23,7 +25,7 @@ Collaborating with UX Designer and UI team for feedback on button designs
 
 ## Dollar Tree Corp (Covington, WA)
 
-**Assistant Manager (ASM)** (2020 - Current)
+**Assistant Manager (ASM)** *(2020 - Current)*
 
 - Administering cash for each register before opening hours and overseeing cash in safe before closing hours.
 - Operating assigned cash register to perform all sales transactions
@@ -35,11 +37,11 @@ Collaborating with UX Designer and UI team for feedback on button designs
 
 * [University of Washington][]*
 
-**Geography with Data Science** (2017 - 2022)
+**Geography with Data Science** *(2017 - 2022)*
 
 [University of Washington]: https://www.washington.edu
 
-![A Picture of the UW Silent Library](/assets/img/UW.jpg)
+![A Picture of the UW Silent Library](assets/img/UW.jpg)
 
 
 ```
