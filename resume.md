@@ -5,7 +5,7 @@ Castie2@uw.edu
 
 # Summary
 
-Communication and customer service skills learned from the fast-paced retail and food industries combined with technical skills in Python, design, and libraries have made me a great candidate for front-end developer roles and teamwork.
+> Communication and customer service skills learned from the fast-paced retail and food industries combined with technical skills in Python, design, and libraries have made me a great candidate for front-end developer roles and teamwork.
 
 # Work Experience (only last 10 years)
 
@@ -38,5 +38,8 @@ Collaborating with UX Designer and UI team for feedback on button designs
 **Geography with Data Science** (2017 - 2022)
 
 [University of Washington]: https://www.washington.edu
+
+![A Picture of the UW Silent Library](/assets/img/UW.jpg)
+
 
 ```

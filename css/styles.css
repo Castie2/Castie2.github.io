@@ -41,6 +41,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
+  --bs-metallic-gold: #85754d;
   --bs-primary-rgb: 189, 93, 56;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
@@ -237,7 +238,8 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  /*color: #bd5d38;*/
+  color: var(--bs-metallic-gold);
   text-decoration: underline;
 }
 a:hover {
@@ -602,7 +604,8 @@ progress {
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
 }
 
 .img-thumbnail {
@@ -2507,8 +2510,9 @@ textarea.form-control-lg {
   box-shadow: 0 0 0 0.25rem rgba(189, 93, 56, 0.25);
 }
 .form-check-input:checked {
-  background-color: #bd5d38;
-  border-color: #bd5d38;
+  background-color: var(--bs-metallic-gold);
+  border-color: var(--bs-metallic-gold);
+
 }
 .form-check-input:checked[type=checkbox] {
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3e%3cpath fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='M6 10l3 3l6-6'/%3e%3c/svg%3e");
@@ -3032,8 +3036,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #000;
-  background-color: #bd5d38;
-  border-color: #bd5d38;
+  background-color: var(--bs-metallic-gold);
+  border-color: var(--bs-metallic-gold);
 }
 .btn-primary:hover {
   color: #000;
@@ -3944,7 +3948,7 @@ textarea.form-control-lg {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
-  color: #bd5d38;
+  color: var(--bs-metallic-gold);
   text-decoration: none;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
@@ -4001,7 +4005,7 @@ textarea.form-control-lg {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #bd5d38;
+  background-color: var(--bs-metallic-gold);
 }
 
 .nav-fill > .nav-link,
@@ -4805,7 +4809,7 @@ textarea.form-control-lg {
 .page-link {
   position: relative;
   display: block;
-  color: #bd5d38;
+  color: var(--bs-metallic-gold);
   text-decoration: none;
   background-color: #fff;
   border: 1px solid #dee2e6;
