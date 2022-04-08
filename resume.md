@@ -16,20 +16,26 @@ Castie2@uw.edu
 **Software Engineering Intern (SWE)** *(June 2021 - September 2021)*
 
 - Collaborated with **Analytics team and Engineering team** to work on two projects
-- Helped the analytics team create pivot charts using excel, cleaning data, creating a story with the pivot charts in powerpoint to gain insight for the anti money laundering team.
-- Establish and achieve goals using sprint scrum methodologies and contribute to the retrospective meetings and daily standups
-- Performed Research on sharpr and brainstormed ideas to improve click rates, developed rough draft ideas on miro board transferred brainstorm ideas into Figma prototypes.
+- Helped the analytics team create pivot charts using excel, cleaning data, creating a story with
+    the pivot charts in powerpoint to gain insight for the anti money laundering team.
+- Establish and achieve goals using sprint scrum methodologies and contribute to the retrospective
+    meetings and daily standups
+- Performed Research on sharpr and brainstormed ideas to improve click rates, developed rough draft
+    ideas on miro board transferred brainstorm ideas into Figma prototypes.
 Collaborating with UX Designer and UI team for feedback on button designs
-- Learned the React Framework, used the codebase repo from the team, set up “local” environment using git, documented code changes on confluence
+- Learned the React Framework, used the codebase repo from the team, set up “local” environment
+    using git, documented code changes on confluence
 
 
 ## Dollar Tree Corp (Covington, WA)
 
 **Assistant Manager (ASM)** *(2020 - Current)*
 
-- Administering cash for each register before opening hours and overseeing cash in safe before closing hours.
+- Administering cash for each register before opening hours and overseeing cash in safe before
+    closing hours.
 - Operating assigned cash register to perform all sales transactions
-- Training incoming shift members on customer interactions, policies and procedures of Dollar Tree Corp.
+- Training incoming shift members on customer interactions, policies and procedures
+    of Dollar Tree Corp.
 - Promoted to Assistant Manager within **a year**
 
 
