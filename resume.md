@@ -44,7 +44,7 @@ Collaborating with UX Designer and UI team for feedback on button designs
 
 [University of Washington]: https://www.washington.edu
 
-![A Picture of the UW Silent Library](UW.jpg)
+![A Picture of the UW Silent Library](/UW.jpg)
 
 
 ```
